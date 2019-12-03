@@ -31,3 +31,6 @@ Capturas de pantalla:
 
 <a href="https://ibb.co/gbM6jQ"><img src="https://preview.ibb.co/kiGvdk/2017_09_16_113740_1366x768_scrot.png" alt="2017_09_16_113740_1366x768_scrot" border="0"></a>
 <a href="https://ibb.co/jq1Tyk"><img src="https://preview.ibb.co/eCFoyk/2017_09_16_113728_1366x768_scrot.png" alt="2017_09_16_113728_1366x768_scrot" border="0"></a>
+
+
+Por último las pruebas unitarias están en las carpetas testing y testing2
